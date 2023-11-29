@@ -4,6 +4,6 @@ Store the history of a browser's visited paths
 
 |---------+--------------------------------------------------------|
 | source  | git:https://github.com/atlas-engineer/history-tree.git |
-| commit  | f1dd415                                                |
+| commit  | 2192a74                                                |
 | systems | history-tree                                           |
 |---------+--------------------------------------------------------|
